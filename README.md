@@ -4,7 +4,7 @@
 ## Description
 Hi! 
 <br>
-Thanks for checking out my personal portfolio. In it you'll find some of my lastest projects and ways to reach me. I'll be updating this often as I work through my bootcamp!
+Thanks for checking out my personal portfolio. In it you'll find some of my latest projects and ways to reach me. I'll be updating this often as I work through my bootcamp!
 
 
 ## Link
